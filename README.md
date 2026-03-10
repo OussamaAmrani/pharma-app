@@ -3,9 +3,9 @@
 ## 📸 Captures d'écran
 
 
-<img src="images/Gestion des Médicaments.PNG"> 
-<img src="images/Gestion des Ventes.PNG"> 
-<img src="images/Gestion des Catégories.PNG"> 
+<img src="images/medicaments.png.PNG"> 
+<img src="images/ventes.png.PNG"> 
+<img src="images/categories.png.PNG"> 
 
 ## 🚀 Fonctionnalités
 
