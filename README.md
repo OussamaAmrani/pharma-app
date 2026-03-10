@@ -3,9 +3,9 @@
 ## 📸 Captures d'écran
 
 
-<img src="images/medicaments.png"> 
-<img src="images/ventes.png"> 
-<img src="images/categories.png"> 
+<img src="Images/medicaments.png"> 
+<img src="Images/ventes.png"> 
+<img src="Images/categories.png"> 
 
 ## 🚀 Fonctionnalités
 
